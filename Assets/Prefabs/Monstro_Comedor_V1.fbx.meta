@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9952855c78bfb43c3af7cbc243081437
+timeCreated: 1488460209
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boca
+    100002: Corpo
+    100004: Direita
+    100006: Direito
+    100008: Direito 1
+    100010: Esquerda
+    100012: Esquerdo
+    100014: Esquerdo 1
+    100016: Iris
+    100018: Iris 1
+    100020: Lingua
+    100022: //RootNode
+    100024: Narina
+    100026: Olho
+    100028: Olho 1
+    100030: Olhos
+    100032: Pe
+    100034: Sombrancelha
+    100036: Sombrancelha 1
+    400000: Boca
+    400002: Corpo
+    400004: Direita
+    400006: Direito
+    400008: Direito 1
+    400010: Esquerda
+    400012: Esquerdo
+    400014: Esquerdo 1
+    400016: Iris
+    400018: Iris 1
+    400020: Lingua
+    400022: //RootNode
+    400024: Narina
+    400026: Olho
+    400028: Olho 1
+    400030: Olhos
+    400032: Pe
+    400034: Sombrancelha
+    400036: Sombrancelha 1
+    2300000: Boca
+    2300002: Direita
+    2300004: Direito 1
+    2300006: Esquerda
+    2300008: Esquerdo 1
+    2300010: Iris
+    2300012: Iris 1
+    2300014: Lingua
+    2300016: Olho
+    2300018: Olho 1
+    2300020: Sombrancelha
+    2300022: Sombrancelha 1
+    3300000: Boca
+    3300002: Direita
+    3300004: Direito 1
+    3300006: Esquerda
+    3300008: Esquerdo 1
+    3300010: Iris
+    3300012: Iris 1
+    3300014: Lingua
+    3300016: Olho
+    3300018: Olho 1
+    3300020: Sombrancelha
+    3300022: Sombrancelha 1
+    4300000: Iris
+    4300002: Olho
+    4300004: Sombrancelha
+    4300006: Iris
+    4300008: Olho
+    4300010: Sombrancelha
+    4300012: Boca
+    4300014: Lingua
+    4300016: Esquerda
+    4300018: Direita
+    4300020: Esquerdo
+    4300022: Direito
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
