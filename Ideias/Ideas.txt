@@ -1,0 +1,7 @@
+Ideas
+
+- Camera atras do jogador, movimento local
+	- Arvore no fundo, aproveitar melhor
+	
+- Jogador livre, camera nas costas
+	- E o Coop?
